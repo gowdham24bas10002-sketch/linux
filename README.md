@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: SANGEETH KUMAR SAI S
-- Roll Number: 24BAS10124
+- Name: GOWDHAM M
+- Roll Number: 24BAS10002
 
 ## Chosen Software
 Git (Version Control System)
